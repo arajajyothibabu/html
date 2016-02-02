@@ -1,0 +1,27 @@
+body{
+	width:100%;
+	min-height: 800px;
+	color:#C39;
+}
+.page{
+	padding:0px;
+	margin: 0px;
+}
+nav.navbar{
+	margin-bottom: 0px;
+}
+.left-nav{
+	margin-top: 0px;
+	background: #ebebeb;
+	min-height: 800px;
+}
+.right-nav{
+	margin-top: 0px;
+	background: #ebebeb;
+	min-height: 800px;
+}
+.main{
+	margin-top: 0px;
+	background: #f9f2f4;
+	min-height: 800px;
+}
